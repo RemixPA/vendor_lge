@@ -166,7 +166,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e975/proprietary/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
     vendor/lge/e975/proprietary/lib/libgsl.so:system/lib/libgsl.so
 
-ifeq ($(TARGET_DEVICE),e975)
+ifeq ($(TARGET_DEVICE),geehrc)
 PRODUCT_COPY_FILES += \
     vendor/lge/e975/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so
 endif
