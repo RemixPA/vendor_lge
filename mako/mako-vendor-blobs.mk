@@ -178,6 +178,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/firmware/bcm2079x_firmware.ncd:system/vendor/firmware/bcm2079x_firmware.ncd \
     vendor/lge/mako/proprietary/vendor/firmware/bcm2079x_pre_firmware.ncd:system/vendor/firmware/bcm2079x_pre_firmware.ncd \
     vendor/lge/mako/proprietary/lib/libacdbdata.so:system/lib/libacdbdata.so \
+    vendor/lge/mako/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/mako/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/lge/mako/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
     vendor/lge/mako/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
